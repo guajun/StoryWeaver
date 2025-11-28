@@ -1,0 +1,5 @@
+{
+  "name": "StoryWeaver",
+  "description": "A visual RPG dialogue tree editor using YAML. Write your story structure in YAML and visualize the branching narrative graph instantly.",
+  "requestFramePermissions": []
+}
